@@ -149,7 +149,7 @@ World building is the art of creating a fictional reality that is internally con
 
 **Mob Pets / Mob Sidekicks**
 
-- I've been brainstorming on how we can leverage Ole's talent to produce more collections (without watering anything down). Collections are also a great way to raise more capital to fund future development (which will be necessary unless ADA moons sooner than expected).
+- I've been brainstorming on how we can leverage Ole's talent to produce more collections (without watering anything down). Collections are a great way to raise more capital to fund future development (which will be necessary unless ADA moons sooner than expected).
 - An OREMOB pets/sidekicks collection would is one such possibility for another collection. These could have PFP capabilities, but also play a role in the gameified world.
 - Sidekicks might not be PFPs, but they could act as a small in-world character that lived in the players safehouse. Perhaps it would be some kind of cybernetic cyberpunk creature thing.
 - This would also allow Ole to create the best looking animal PFP on Cardano (he's already done humans haha).
