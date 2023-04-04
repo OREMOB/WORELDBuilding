@@ -246,7 +246,7 @@ The content types are as follows. I will touch on these in greater detail in the
   - Vendor assigned missions.
   - Faction assigned missions.
   - Legend assigned missions.
-- Mission success/failure mechanics:
+- Mission mechanics:
   - Probability-based: A player is given a probability before undertaking the mission. The software calculates success of failure by simulating rounds and taking into account a player's stats and their mob stats. These missions can also time-lock a player. While they're on a mission - they can't do other stuff.
   - Puzzle-based: A player can solve a puzzle to complete a mission.
 - Solo vs. mob missions:
