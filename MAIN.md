@@ -126,7 +126,7 @@ World building is the art of creating a fictional reality that is internally con
   - A katana case
 - Safehouses would be publically available like pool.pm - you could visit a users safehouse by typing in oreworld.com/$walletName and see how they had decked it out. This gives a sense of multiplayer.
 
-**Player floaters, Player mobs & In-game Items**
+**Player floaters and Player mobs**
 
 - When entering the world, players will have the chance to mint a new base floater/character that represents an "account" in the world/game. I will touch on the mechanics of this new floater and its relationship to the OREMOB 10k collection in the gamification section. Players can mint more than 1.
 - This floater will represet the player. The visal appearance will be different than the 10k (We don't want to water down the 10k).
@@ -194,6 +194,7 @@ The content types are as follows. I will touch on these in greater detail in the
 - Raids
 - Vendors
 - In-world games
+- Mob Records
 - Pets/Animals
 - Weapons/Blacksmith
 - Manga episodes
@@ -281,6 +282,13 @@ The content types are as follows. I will touch on these in greater detail in the
 - In world games allow players to earn money and items by playing a trading card-based game, or dice based game.
 - This would require networking to be multiplayer. Perhaps initially it will simply be AI based and the goal is to collect all the cards.
 - I think we can create some other special reward types for the games. Besides earning more cards, perhaps by beating an innkeeper for example, you gain a ramen recipie.
+
+**Mob Records**
+
+- The soundtracks that are produced can be minted and collected in game.
+- These tokens are 3D vinyl cases.
+- Records are stored in the players safehouse. An interface can be used to cycle through and play the different tracks.
+- Players can customize the tracks that play when other users visit their safehouses.
 
 **Pets**
 
