@@ -236,7 +236,6 @@ The content types are as follows. I will touch on these in greater detail in the
 - Players can mint multiple safehouse keychains.
 - Players can upgrade their safehouse keychains with faction excluisve bobbles.
   - These bobbles allow a player to change the theme of their safehouse.
-- Players can mint multiple safehouses keychains.
 
 **Missions & Quests**
 
