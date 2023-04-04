@@ -356,3 +356,5 @@ The content types are as follows. I will touch on these in greater detail in the
 - Getting musicians to produce music tracks
 - Brand collaborations
 - Going multi-chain
+
+*Disclaimer: This document is a work in progress and subject to change*
