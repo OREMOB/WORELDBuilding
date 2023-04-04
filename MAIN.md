@@ -284,7 +284,7 @@ The content types are as follows. I will touch on these in greater detail in the
 
 **Pets**
 
-- Pets like players, have stats and contribute to a mob stats.
+- Pets like players, have stats and contribute to mob stats.
 - There will be pet exclusive missions.
 - Pets can be customized in many ways.
 
