@@ -162,6 +162,7 @@ World building is the art of creating a fictional reality that is internally con
 
 - I think we should develop "in-world games" (Gwent from The Witcher 3) that involves using collectible trading cards, dice or other items.
 - Players can play against each other or an AI.
+- Trading cards could be OG-esque (see assets folder)
 
 
 **Mob Legends**
