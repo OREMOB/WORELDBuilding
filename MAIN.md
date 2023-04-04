@@ -199,7 +199,6 @@ The content types are as follows. I will touch on these in greater detail in the
 - Manga episodes
 - Gardening
 - Recipies/Cooking
-- In-game exchange
 - General Customization
 
 **Lore**
@@ -307,8 +306,6 @@ The content types are as follows. I will touch on these in greater detail in the
 **Recipies/Cooking**
 
 - As you collect ramen recipies, you can mint ramen tokens that are stored in your fridge, these are collectible and perhaps can also be linked to some mission progression.
-
-**Customization**
 
 **Customization**
 
