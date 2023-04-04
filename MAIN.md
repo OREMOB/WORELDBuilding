@@ -156,7 +156,7 @@ World building is the art of creating a fictional reality that is internally con
 
 **Multi-Chain Collections**
 
-- This would be way down the line, but in the event the team has the resources, and the community is on board, and we set everything up properly. I don't think it would be a bad idea necessarily to launch a collection on Ethereum, and expand the world to have ETH specific regions, locations and factions. This would also introduce the possibility of chain-based faction wars.
+- In the event the team musters the resources, and the community is on board, and we put together a strong plan, I don't think it would be a bad idea to go multi-chain (Ethereum), and expand the world to support an ETH userbase. This would bring in a lot of capital as well as introducing interesting gameplay mechanics. This is risky in many ways, needs a lot of thought.
 
 **Mob Trading Cards, dice, bones (In-world games)**
 
