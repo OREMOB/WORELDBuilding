@@ -219,7 +219,7 @@ The content types are as follows. I will touch on these in greater detail in the
 
 - The purpose of OREMOB NFTs within the world and game are to provide utility, access and stats to the player and the player's mob.
 - OREMOB NFTs can be thought of as characters within the world. The player does not control them directly per se, but by owning the NFT, that character becomes aligned with the player and his mob.
-- Each OREMOB NFT has stats. By owning that token, the stats are added to the players "meta stats" (mob stats) which dictate things mission performance, influence, territory etc.
+- Each OREMOB NFT has stats. By owning that token, the stats are added to the players "meta stats" (mob stats) which dictate things like mission performance, influence, territory etc.
 - OREMOB NFTs can also grant access to exclusive areas and exclusive content. A Cardano Corp NFT opens up the Cardano Corp faction content to the player.
 
 **Player floaters & Player mobs**
