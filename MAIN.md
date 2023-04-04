@@ -198,6 +198,7 @@ The content types are as follows. I will touch on these in greater detail in the
 - Weapons/Blacksmith
 - Manga episodes
 - Gardening
+- Recipies/Cooking
 - In-game exchange
 - General Customization
 
@@ -297,6 +298,17 @@ The content types are as follows. I will touch on these in greater detail in the
 **Manga episodes**
 
 - A manga-style comic set in the world.
+
+**Gardening**
+
+- Collecting bonsai trees and zen garden elements can be tied to a garden customization experience.
+- These tokens can also contribute to mob or player stats in some way.
+
+**Recipies/Cooking**
+
+- As you collect ramen recipies, you can mint ramen tokens that are stored in your fridge, these are collectible and perhaps can also be linked to some mission progression.
+
+**Customization**
 
 **Customization**
 
