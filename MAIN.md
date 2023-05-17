@@ -366,4 +366,9 @@ The content types are as follows. I will touch on these in greater detail in the
 - Brand collaborations
 - Going multi-chain
 
+### ⭐ 3a: Misc ideas
+
+- Gamified storytelling
+  - Probability (20-sided dice) based gameplay. Can tie into card game, cards (like MtG) have abilities and dice numbers. The higher the dice number the more powerful the card performs, some cards allow you to throw multiple dice, or just 1.
+
 *Disclaimer: This document is a work in progress and subject to change*
