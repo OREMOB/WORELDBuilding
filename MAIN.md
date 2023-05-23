@@ -371,4 +371,6 @@ The content types are as follows. I will touch on these in greater detail in the
 - Gamified storytelling
   - Probability (20-sided dice) based gameplay. Can tie into card game, cards (like MtG) have abilities and dice numbers. The higher the dice number the more powerful the card performs, some cards allow you to throw multiple dice, or just 1.
 
+- Crafting oriented gameplay. Mob figures collect resources from the city which can be used to craft item NFTs. Money can also be used to purchase items throughout the city.
+
 *Disclaimer: This document is a work in progress and subject to change*
